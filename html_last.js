@@ -1,5 +1,3 @@
-const test = require("./app.js");
-
 
 var html_first = `<!DOCTYPE html>
 <html lang="en">

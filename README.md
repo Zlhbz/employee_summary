@@ -15,4 +15,4 @@ Creating a well designed, intuitive to use website and easy to update the websit
 * I divided html file I created before to 3 pieces. First one is the part up to cards, second is cards, and last one is up to the end of the file. I kept that 3 parts as strings. I also kept 3 different card options as strings in order to pick depending on the data I got through inquirer. After concatenating strings, I used inbuilt fs package (writeFile function) to create a new file.
 
 ### Goal 
-* I didn't have time to polish html file. It looks super easy.
+* I didn't have time to polish html file. It looks super easy. I am going to spend more time on it.

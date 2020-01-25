@@ -16,3 +16,7 @@ Creating a well designed, intuitive to use website and easy to update the websit
 
 ### Goal 
 * I didn't have time to polish html file. It looks super easy. I am going to spend more time on it.
+
+### Example Behavior
+
+![](example.gif)
